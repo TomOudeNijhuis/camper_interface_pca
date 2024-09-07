@@ -68,7 +68,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VXUDXMWU
 
 [Document2]
-DocumentPath=CamperPi.SCHLIB
+DocumentPath=main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -82,7 +82,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LFQXXNFH
+DocumentUniqueId=DFDKASHQ
 
 [Configuration1]
 Name=Sources

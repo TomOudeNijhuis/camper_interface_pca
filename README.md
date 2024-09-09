@@ -13,28 +13,24 @@ Pi zero 2 W with display
 - Enable, disable and monitor pump (push-pull signal)
 - Monitor clean and dirty water tank level (4 levels)
 - Room temperature sensor
-- Motion sensor
 - Buttons to control household power and pump
-- Serial interface to rp zeor 2
-- voeding aansluiting voor de Zero-DISP-7A, RP zero 2 W (USB stekker 5 volt)
+- Serial interface to rp zeor 2 W
+-Power supply for the Zero-DISP-7A, RP zero 2 W
 
 ## Design
 
-level shifter:
-* TXB0106
-
 pi zero:
-- I/O voltage 3v3!
-- supply voltage 5 volt
+- I/O voltage 3V3!
+- supply voltage 5 V
 
 processor (PIC16F18056):
-- 5 Volt supply!
+- 5 V supply
 - Serial
 - 10 bit ADC, FVR of 4.096 V
 - enough digital IO
 
 power supply:
-- external 5 volt;
+- externally connected 12 V to 5 V
 
 Programmer:
 - Microchip Snap

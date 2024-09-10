@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 07:54:51 On 10/09/2024
+
+Output: STEP
+Type  : ExportSTEP
+From  : PCB Document [main.PcbDoc]
+   Generated File[camper_pi.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 07:54:58 On 10/09/2024

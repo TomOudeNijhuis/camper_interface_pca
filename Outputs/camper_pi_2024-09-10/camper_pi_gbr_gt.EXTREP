@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: camper_pi_gbr_gt.GBR   10/09/2024  07:53:54
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                01                                      
+.GBL                02                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                (M1) Board Outline                      
+.GM2                (M2) Assembly Drawing Top               
+.GM3                (M3) Assembly Drawing Bottom            
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

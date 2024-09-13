@@ -12,7 +12,7 @@ Pi zero 2 W with display
 - Enable, disable and monitor household power (Set-reset circuit)
 - Enable, disable and monitor pump (push-pull signal)
 - Monitor clean and dirty water tank level (4 levels)
-- Room temperature sensor
+- 1-wire connection for temperature sensors
 - Buttons to control household power and pump
 - Serial interface to rp zeor 2 W
 -Power supply for the Zero-DISP-7A, RP zero 2 W
